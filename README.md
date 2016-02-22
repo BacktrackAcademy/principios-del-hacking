@@ -19,7 +19,7 @@ a partir de una versión previa realizada por César Ballardini.
 
 ¿Qué es un hacker?
 
-La actitud del hacker
+[La actitud del hacker](#la-actitud-del-hacker)
 
 1. El mundo está lleno de problemas fascinantes que esperan ser resueltos
 2. Ningún problema tendría que resolverse dos veces
