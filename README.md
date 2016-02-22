@@ -11,7 +11,9 @@ Original en inglés: How To Become A Hacker
 Traducción: Miquel Vidal <miquel@sindominio.net>, 
 a partir de una versión previa realizada por César Ballardini.
 
-Tabla de Contenidos
+[Fuente en español](http://biblioweb.sindominio.net/telematica/hacker-como.html)
+
+## Tabla de Contenidos
 
 ¿Por qué existe este documento?
 
